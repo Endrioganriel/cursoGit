@@ -1,0 +1,12 @@
+testando repositorio 
+
+git status -> as mudanças do projeto podem ser verificadas, mapear alteraçoes.
+
+git add -> para adicionar arquivos novos a um projeto 
+| git add . -> pode add um arquivo especifico como tambem dirvesos de uma vez só
+
+git commit -> as alteraçoes salvas do projeto sao realizadas
+podemos comitar arquivos especificos ou varios de uma vez com a flag -a
+lembrar de sempre avisar, com uma mensagem a alteraçao com a flag -m
+
+git commmit -a -m "enviando alteraçoes"        
