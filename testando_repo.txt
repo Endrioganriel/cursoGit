@@ -9,4 +9,7 @@ git commit -> as alteraçoes salvas do projeto sao realizadas
 podemos comitar arquivos especificos ou varios de uma vez com a flag -a
 lembrar de sempre avisar, com uma mensagem a alteraçao com a flag -m
 
-git commmit -a -m "enviando alteraçoes"        
+git commmit -a -m "enviando alteraçoes"  
+
+Quando finalizamos uma funcionalidade nova, enviamos o codigo ao repositorio remoto, que é o codigo fonte
+git push -> Apos esta açao o codigo do servidor sera atualizado baseando-se no codigo local enviado
